@@ -1,0 +1,7 @@
+#ExpPlugin by Jimbobt123
+#V1.1
+
+This plugin allows you to manually edit the EXP drop of any mob via a config file. To use it, simply drag it to
+you plugins folder, reload your server to let the config file generate, and then edit the number by the mob
+you want to edit. If you make the number too high, instead of dropping that number of orbs, it will drop a few
+large orbs.
